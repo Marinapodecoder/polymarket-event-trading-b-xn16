@@ -1,4 +1,4 @@
-# 
+# advanced Polymarket Module | portfolio-optimization + cross-chain-arbitrage offers the most advanced Polymarket module, with portfolio-optimization and cross-chain-arbitrage.
 
 
 
